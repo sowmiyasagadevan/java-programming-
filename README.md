@@ -1,1 +1,1 @@
-These repo contains java practice programs 
+this folder has java programs 
